@@ -7,7 +7,6 @@ class AnakMuslimModel extends AnakMuslimEntity {
   String nama_pengguna;
   var id_pengguna;
 
-  /// Fetch data from json format.
   AnakMuslimModel.fromJson(Map<String, dynamic> json)
       : super(
           id_pengguna: json['id_pengguna'],
@@ -15,7 +14,6 @@ class AnakMuslimModel extends AnakMuslimEntity {
           keterangan_pelanggan: json['keterangan_pengguna'],
         );
 
-  /// Parse data into json format.
   Map<String, dynamic> toJson() => {
         'weather': {
           'id_pengguna': id_pengguna,
