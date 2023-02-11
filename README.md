@@ -13,6 +13,7 @@
   <p align="center">
     <strong>Semua Kode tersimpan di <a href="https://drive.google.com/drive/folders/1jwdDdV_Qgo1J-ifxojMhSgUuj8BF-evQ?usp=sharing">Google Drive</a></strong>.
   </p>
+  <br>
 </p>
 
 **✍ Permohonan Maaf** 
